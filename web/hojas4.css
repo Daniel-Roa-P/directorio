@@ -1,0 +1,124 @@
+body{
+       background-color:rgb(166,137,249);
+}
+
+#tabla{
+	border:3px solid;
+        color:rgb(0,0,0);
+	text-align:center;
+	border-collapse: collapse;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#col10{
+	background-color:rgb(255,162,11);
+	
+}
+
+#col11{
+	background-color:rgb(50,0,50);
+	font-family:"Comic Sans MS";
+	
+}
+
+#col12{
+	background-color:rgb(100,0,100);
+	font-family:"Comic Sans MS";
+}
+
+#col13{
+	background-color:rgb(150,0,150);
+	font-family:"Comic Sans MS";
+}
+
+#col14{
+	background-color:rgb(200,0,200);
+	font-family:"Comic Sans MS";
+}
+
+#col15{
+	background-color:rgb(255,0,255);
+	font-family:"Comic Sans MS";
+	text-color:rgb(0,50,0);
+}
+
+#col21{
+	background-color:rgb(50,50,0);
+}
+
+#col22{
+	background-color:rgb(100,100,0);
+}
+
+#col23{
+	background-color:rgb(150,150,0);
+}
+
+#col24{
+	background-color:rgb(200,200,0);
+}
+
+#col25{
+	background-color:rgb(255,255,0);
+}
+
+#boton{
+	background-color:rgb(255,255,255);
+}
+
+input{
+	background-color:rgb(255,255,255);
+}
+
+#h1{
+	color:rgb(0,255,0);
+	}
+
+#h2{
+	color:rgb(0,200,0);
+	}
+
+#h3{
+	color:rgb(0,150,0);
+	}
+
+#h4{
+	color:rgb(0,100,0);
+	}
+
+#h5{
+	color:rgb(0,50,0);
+	}
+
+#h0{
+	color:rgb(240,67,96);
+	}
+#img{
+	background-color:rgb(0,255,255);
+	}
+
+#Cll{
+	width:30px;
+	}
+
+#Kr{
+	width:30px;
+	}
+
+#Producto{
+	width:125px;
+}
+
+#col5{
+	background-color:rgb(255,255,153);
+	}
+
+#area{
+	width:350px;
+	height:70px;
+}
+
+#col6{
+	background-color:rgb(255,255,255);
+}

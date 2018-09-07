@@ -1,6 +1,6 @@
 package Logica;
 
-public abstract class Usuario {
+public abstract class UsuarioAbstracto {
     
     private String nombre;
     private String apellido;

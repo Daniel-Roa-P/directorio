@@ -51,7 +51,7 @@ public class ServletCliente extends HttpServlet {
             out.println("<html>");
             out.println("<head>");
             out.println("<title>Directoro_Recibido</title>"); 
-            out.println("<link type=\"text/css\" rel=\"stylesheet\" href=\"hoja_hola.css\"/>");
+            out.println("<link type=\"text/css\" rel=\"stylesheet\" href=\"EstiloServlets.css\"/>");
             out.println("</head>");
             out.println("<body>");
             out.println("<form  method=\"get\">");

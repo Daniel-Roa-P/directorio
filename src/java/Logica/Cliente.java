@@ -9,7 +9,7 @@ package Logica;
  *
  * @author Estudiantes
  */
-public class Cliente extends Usuario {
+public class Cliente extends UsuarioAbstracto {
 
     @Override
     public void setProducto(String producto) {

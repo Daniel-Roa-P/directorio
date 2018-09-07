@@ -15,9 +15,9 @@ function validar(){
 
 	if(document.getElementById("Tipo_c").value===""){
 
-		document.getElementById("Tipo_c").value=prompt('el contacto debe ser un cliente o un proovedor');
+		document.getElementById("Tipo_c").value=prompt('el contacto debe ser un cliente o un proveedor');
 		
-                if(document.getElementById("Tipo_c").value==="proovedor"){
+                if(document.getElementById("Tipo_c").value==="proveedor"){
 
                     document.getElementById("Producto").value=prompt('el Producto no puede estar vacio y/o solo puede contener letras');
                     
@@ -89,7 +89,7 @@ function validar(){
 	
     }
     
-    if(document.getElementById("Tipo_c").value==="proovedor"){
+    if(document.getElementById("Tipo_c").value==="proveedor"){
                     
                 document.getElementById("frmTest").action="recibirProveedor";
                 document.frmTest.submit();
@@ -107,7 +107,7 @@ function mostrar(){
 	
 	var valor=document.getElementById("Tipo_c").value;
 
-	if(valor==="proovedor"){
+	if(valor==="proveedor"){
 		document.getElementById("Producto").style.visibility = "visible"; 
 		document.getElementById("p").style.visibility = "visible";
 	}else{

@@ -12,8 +12,8 @@
         <title>Formulario</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <script type="text/javascript" src="paso_cadenas.js" language='JavaScript1.2'></script>
-        <link type="text/css" rel="stylesheet" href="hojas4.css"/>
+        <script type="text/javascript" src="Paso_Cadenas.js" language='JavaScript1.2'></script>
+        <link type="text/css" rel="stylesheet" href="EstiloIndex.css"/>
         <title> otra pagina mas </title>
     </head>
     <body onload="mostrar()">
@@ -94,7 +94,7 @@
                 			<select tabindex="3" id="Tipo_c" name="Tipo_c" onclick="mostrar()">
                 			<option value="">Seleccione una opcion</option>
                 			<option value="cliente">cliente</option>
-                			<option value="proovedor">proovedor</option>
+                			<option value="proveedor">proveedor</option>
 
                 			</select>
                 	</td>

@@ -38,7 +38,7 @@ public class ServletProveedor extends HttpServlet {
         p.setApellido(request.getParameter("Apellido"));
         p.setTipo_c(request.getParameter("Tipo_c"));
         p.setComentario(request.getParameter("area"));
-        p.setProducto("Producto");
+        p.setProducto(request.getParameter("Producto"));
         p.setCalle(Integer.parseInt(request.getParameter("Cll")));
         p.setCarrera(Integer.parseInt(request.getParameter("Kr")));
         p.setTelefono(Integer.parseInt(request.getParameter("Telefono")));
